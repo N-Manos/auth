@@ -1,4 +1,4 @@
 auth
-=====
+-------
 
 A simple app made with the help of railscast #250 that showed how to create a user authentication from scratch.
